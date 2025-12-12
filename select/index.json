@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "イチブトゼンブ",
+  "base_artist": "B'z",
+  "createdAt": "2025-12-12T05:37:53.259603Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イチブトゼンブ",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/01_イチブトゼンブ_B'z.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イチブトゼンブ -Ballad Version-",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/02_イチブトゼンブ_-Ballad_Version-_B'z.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イチブトゼンブ",
+      "artist": "B'z",
+      "has_synced": true,
+      "path": "select/03_イチブトゼンブ_B'z.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イチブトゼンブ",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/pl_01_イチブトゼンブ_B'z.txt"
+    }
+  ]
+}
